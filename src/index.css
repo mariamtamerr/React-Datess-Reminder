@@ -1,0 +1,46 @@
+
+.body {
+  height: 100vh;
+  background:  #c6c3c34d;
+  font-size: 1rem;
+ 
+}
+
+/* .font {
+  font-size: 2rem;
+} */
+
+.rectangle { 
+  /* width: 60%; */
+  height: 600px;
+  background: white;
+  box-shadow: 0rem 0rem 0.5rem #c6c3c3;
+  border-radius: 2rem;
+  
+  
+  
+}
+
+.button {
+  width: 25rem;
+  /* padding: 0rem; */
+ height: 3rem;
+}
+
+
+.image {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+  margin-left: 1rem;
+ 
+
+}
+
+
+.no-data {
+ display: flex;
+ justify-content: center;
+
+ 
+}
